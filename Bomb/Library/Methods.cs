@@ -1,10 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-
-namespace Bomb.Library
+﻿namespace Bomb.Library
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Linq;
+
+
+    public enum Colors
+    {
+        white,
+        black,
+        red,
+        green,
+        orange,
+        purple
+    }
+
+
     public class Methods
     {
         public bool IsValidArray(string[] wiresInput)
