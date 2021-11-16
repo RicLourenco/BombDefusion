@@ -1,0 +1,14 @@
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.csproj.AssemblyReference.cache
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfoInputs.cache
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.AssemblyInfo.cs
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.csproj.CoreCompileInputs.cache
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.exe
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.deps.json
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.json
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.runtimeconfig.dev.json
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.dll
+C:\Projects\Bomb\Bomb\bin\Debug\netcoreapp3.1\Bomb.pdb
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.dll
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.pdb
+C:\Projects\Bomb\Bomb\obj\Debug\netcoreapp3.1\Bomb.genruntimeconfig.cache
